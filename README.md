@@ -7,11 +7,11 @@ This repository contains the solutions to the challenge.
 
 
 
-|Solutions            |
-------------------------
-|[Question 1 solution]|
-|[Question 2 solution]|
-|[Question 3 solution]|
+|        Solutions      |
+| --------------------- |
+| [Question 1 solution] |
+| [Question 2 solution] |
+| [Question 3 solution] |
 
 
 [Question 1 solution]: https://github.com/ejarvar/faceit/blob/master/notebooks/question1.ipynb
