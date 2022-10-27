@@ -7,6 +7,6 @@ This repository contains the solutions to the challenge.
 
 ## Solutions
 
-[Question 1 solution]: https://github.com/ejarvar/faceit/tree/master/question1.ipynb
-[Question 2 solution]: https://github.com/ejarvar/faceit/tree/master/question2.ipynb
-[Question 3 solution]: https://github.com/ejarvar/faceit/tree/master/question3.ipynb
+[Question 1 solution]: https://github.com/ejarvar/faceit/tree/master/notebooks/question1.ipynb
+[Question 2 solution]: https://github.com/ejarvar/faceit/tree/master/notebooks/question2.ipynb
+[Question 3 solution]: https://github.com/ejarvar/faceit/tree/master/notebooks/question3.ipynb
